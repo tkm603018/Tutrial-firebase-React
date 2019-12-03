@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "test-e6767",
+    "development": "test-e6767"
+  }
+}
